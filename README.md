@@ -17,38 +17,16 @@ for lab sessions 🔗
 
 
 <!DOCTYPE html>
-
-
 <html>
-
-  
 <head>
-
-  
 <title>
-
-  
 <body>
-
-  
 <center>
-
-  
 <h2>
-
-  
 <table>
-
-  
 <tr>
-
-  
 <th>
-
-  
 <td>
-
-  
 <b>
 
   
