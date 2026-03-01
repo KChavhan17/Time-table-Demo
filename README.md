@@ -16,18 +16,18 @@ for lab sessions 🔗
 ## 🧩 Tags Used
 
 
-<!DOCTYPE html>
-<html>
-<head>
-<title>
-<body>
-<center>
-<h2>
-<table>
-<tr>
-<th>
-<td>
-<b>
+`<!DOCTYPE html>`
+`<html>`
+`<head>`
+`<title>`
+`<body>`
+`<center>`
+`<h2>`
+`<table>`
+`<tr>`
+`<th>`
+`<td>`
+`<b>`
 
   
 ## ⚙️ Attributes Used
@@ -42,7 +42,7 @@ cellpadding="8" – Space inside each cell
 cellspacing="0" – No gap between cells
 
 
-align="center" – Applied in <tr> to center all subjects horizontally
+align="center" – Applied in `<tr>` to center all subjects horizontally
 
 
 colspan="6" – Used for LEISURE row
@@ -55,7 +55,7 @@ valign="middle" – Applied only to the three lab cells
 
 
 ## 🧠 Alignment Understanding
-align is given in <tr> (table row).
+align is given in `<tr>` (table row).
 
 
 This automatically centers all subjects in that row.
